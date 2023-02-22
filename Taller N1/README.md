@@ -13,7 +13,7 @@ $ python3 n1.py
 ```
 
 ### Pseudocode solution
-Pseudocode is inside the code on way of coments
+Pseudocode is a way of commenting inside the code
 
 ### Flowchart Solution
 ![Problem N1 Flowchart Solution](./assets/n1.jpg?raw=true)
@@ -32,7 +32,7 @@ $ python3 n2.py
 ```
 
 ### Pseudocode solution
-Pseudocode is inside the code on way of coments
+Pseudocode is a way of commenting inside the code
 
 ### Flowchart Solution
 ![Problem N2 Flowchart Solution](./assets/n2.jpg?raw=true)
@@ -50,7 +50,7 @@ $ python3 n3.py
 ```
 
 ### Pseudocode solution
-Pseudocode is inside the code on way of coments
+Pseudocode is a way of commenting inside the code
 
 ### Flowchart Solution
 ![Problem N3 Flowchart Solution](./assets/n3.jpg?raw=true)
@@ -68,7 +68,7 @@ $ python3 n4.py
 ```
 
 ### Pseudocode solution
-Pseudocode is inside the code on way of coments
+Pseudocode is a way of commenting inside the code
 
 ### Flowchart Solution
 ![Problem N4 Flowchart Solution](./assets/n4.jpg?raw=true)
