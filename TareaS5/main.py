@@ -9,6 +9,12 @@ def odd_number():
 
     print("")
 
+def factorial_2(num):
+    if ( num == 1 ): return num
+    return num * factorial_2(num-1)
+
+print(factorial_2(10))
+
 def factorial():
     number = int(input("Ingrese el número para calcular el factorial: "))
 
