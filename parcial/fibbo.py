@@ -7,6 +7,7 @@ def fibbo():
     print(f"{a}, {b}", end=", ")
 
     for _ in range(2, number):
+
         temp = a
 
         a = b
