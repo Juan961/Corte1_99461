@@ -5,6 +5,7 @@ def main():
     continue_menu = True
 
     while continue_menu:
+
         try:
             menu = int(input("1. Realizar el primer programa (primera versión)\n2. Realizar el primer programa (segunda versión) \n3. Realizar el segundo programa (fibonnacci)\n4. Salir\nOpción: "))
 
