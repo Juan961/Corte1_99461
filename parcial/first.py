@@ -16,6 +16,10 @@ def first():
             print(i)
             numbers_differents_to_five += 1
 
+    print(f"Dígitos diferentes a 5: { numbers_differents_to_five }")
+    print(f"Dígitos iguales a 5: { numbers_equals_to_five }")
+    print(f"Número de dígitos: { len( number ) }")
+
 def first_option_2():
     number = int(input("Ingrese un número de entre 2 y 8 dígitos: "))
 
@@ -24,10 +28,10 @@ def first_option_2():
 
     numbers_equals_to_five = 0
     numbers_differents_to_five = 0
-    digitis = 0
+    digits = 0
 
     while number > 0:
-        digitis += 1
+        digits += 1
 
         temp = number % 10
 
@@ -42,4 +46,4 @@ def first_option_2():
 
     print(f"Dígitos diferentes a 5: { numbers_differents_to_five }")
     print(f"Dígitos iguales a 5: { numbers_equals_to_five }")
-    print(f"Número de dígitos: { digitis }")
+    print(f"Número de dígitos: { digits }")
