@@ -8,10 +8,11 @@ def fibbo():
 
     for _ in range(2, number):
 
-        temp = a
+        # temp = a
+        # a = b
+        # b = temp + b
 
-        a = b
-        b = temp + b
+        a, b = b, a + b
 
         print(b, end=", ")
 
